@@ -21,3 +21,9 @@ y luego ingresar en el navegador o en Postman
 http://127.0.0.1:5000/mbio/papersOfInterest?word_in_title=virus&word_in_paper=covid
 
 Esto retorna un JSON con los papers resultantes de buscar 'virus' en el título y 'covid' en su contenido.
+
+## Authors
+
+* **Martín Cornejo**  - [martinKindall](https://github.com/martinKindall)
+* **Julio Albornoz**  - [Julioalbornozv](https://github.com/Julioalbornozv)
+* **Matías Rojas**  - [matirojasg](https://github.com/matirojasg)
