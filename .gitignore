@@ -1,0 +1,5 @@
+.idea/
+venv/
+virtualenv/
+*.json
+__pycache__/
